@@ -21,7 +21,7 @@ Artificial Neural Networks are one of the deep learning algorithms that simulate
 
 
 # Structure of Artificial Neural Networks
-![}(Images/Architecture-of-multilayer-artificial-neural-network-with-error-backpropagation.png)
+![](Images/Architecture-of-multilayer-artificial-neural-network-with-error-backpropagation.png)
 
 The Artificial Neural Networks consists of the Input layer, Hidden layers, Output layer. The hidden layer can be more than one in number. Each layer consists of n number of neurons. Each layer will be having an Activation Function associated with each of the neurons. The activation function is the function that is responsible for introducing non-linearity in the relationship. In our case, the output layer must contain a linear activation function. Each layer can also have regularizers associated with it. Regularizers are responsible for preventing overfitting.
 
